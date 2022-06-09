@@ -1,0 +1,42 @@
+body {
+	background-color: grey;
+	text-align: center;
+	margin: 0%;
+}
+.test {
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	margin-left: 752px;
+	margin-right: 751px;
+}
+a {
+	padding-top: 15px;
+	color: lightgrey;
+}
+.heading {
+	position: relative;
+	background-color: white;
+	padding: 2px;
+	margin-bottom: 5%;
+	margin-top: 0px;
+}
+footer {
+	background-color: white;
+	width: 400px;
+	height: 100px;
+	margin-bottom: 100px;
+	margin-left: 752px;
+	margin-right: 751;
+	margin-top: 0px;
+	padding-top: 10px;
+}
+p {
+	font-weight: bold;
+}
+p1 {
+	margin-top: 0px;
+}
+img {
+	vertical-align: bottom;
+}
