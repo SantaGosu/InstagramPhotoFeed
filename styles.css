@@ -1,5 +1,5 @@
 body {
-	background-color: grey;
+	background-color: lightgrey;
 	text-align: center;
 	margin: 0%;
 }
@@ -7,8 +7,9 @@ body {
 	display: flex;
 	justify-content: space-between;
 	background-color: white;
-	margin-left: 752px;
+	margin-left: 701px;
 	margin-right: 751px;
+	width: 501px;
 }
 a {
 	padding-top: 15px;
@@ -23,10 +24,10 @@ a {
 }
 footer {
 	background-color: white;
-	width: 400px;
+	width: 501px;
 	height: 100px;
 	margin-bottom: 100px;
-	margin-left: 752px;
+	margin-left: 701px;
 	margin-right: 751;
 	margin-top: 0px;
 	padding-top: 10px;
